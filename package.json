@@ -1,0 +1,25 @@
+{
+  "name": "node-js-short-application",
+  "version": "1.0.0",
+  "description": "node crash codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BharathKumar0710/NODE-js-short-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BharathKumar0710/NODE-js-short-application/issues"
+  },
+  "homepage": "https://github.com/BharathKumar0710/NODE-js-short-application#readme",
+  "dependencies": {
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
